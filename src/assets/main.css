@@ -1,0 +1,74 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: "Vazirmatn";
+  src: url('../../public/font/vazirmatn/Vazirmatn-Regular.woff2') format('woff2'),
+       url('../../public/font/vazirmatn/Vazirmatn-Regular.woff') format('woff'),
+       url('../../public/font/vazirmatn/Vazirmatn-Regular.ttf') format('truetype'),
+       url('../../public/font/vazirmatn/Vazirmatn-Regular.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+  font-size:Xx-large;
+}
+
+@theme {
+
+  --color-coral-amber:#e8d5ae;
+  --color-coral-title:#2f3915;
+  --color-coral_hover-title:#7f623f;
+  --color-coral-loding:#77a880;
+  --color-coral-body:#eedfc1;
+  --color-coral-productTitle:#2d0c05;
+  --color-coral-Subtitle:#47280a;
+  --color-coral-NameText:#7e5f3d;
+  --color-coral-popup:#f1e2c4;
+  --color-coral-footer:#527853;
+  --color-coral-deskText:#527853;
+}
+@layer components{
+  .back-color{
+    @apply bg-coral-amber
+  }
+  .back-items{
+    @apply bg-coral-body
+  }
+  .color-title{
+    @apply text-coral-title
+  }
+  .color-coral_hover-title{
+    @apply text-coral_hover-title
+  }
+  .color-prodTitle{
+    @apply text-coral-productTitle
+  }
+  .color-Subtitle{
+    @apply text-coral-Subtitle
+  }
+  .color-NameText{
+    @apply text-coral-NameText
+  }
+  .color-bg-popup{
+    @apply bg-coral-popup
+  }
+  .color-coral-loding{
+    @apply text-coral-loding
+  }
+  .back-coral-footer{
+    @apply bg-coral-footer
+  }
+  .text-deskText{
+    @apply text-coral-deskText
+  }
+
+  .Vazirmatn {
+    font-family: "Vazirmatn", serif;
+  }
+
+  .mobile-box {
+    @apply w-full mx-auto md:max-w-[900px] ;
+  }
+  .center-flex {
+    @apply flex justify-center items-center ;
+  }
+}
