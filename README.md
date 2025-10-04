@@ -1,35 +1,77 @@
-# Coral_Caffee
+☕ Coral Coffee
 
-This template should help get you started developing with Vue 3 in Vite.
 
-## Recommended IDE Setup
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
 
-## Customize configuration
 
-See [Vite Configuration Reference](https://vite.dev/config/).
 
-## Project Setup
+A modern and stylish coffee shop web application built with Vue.js and TailwindCSS.
+This project demonstrates building a responsive and visually appealing UI for an online coffee shop, complete with product categories, menus, and interactive features.
 
-```sh
+📸 Screenshots
+
+(Add your screenshots here — for example:)
+
+![Homepage](https://github.com/Ali-T-Dev/Coral_Coffee/blob/main/screenshots/homepage.png)  
+![Menu](https://github.com/Ali-T-Dev/Coral_Coffee/blob/main/screenshots/menu.png)  
+![Contact](https://github.com/Ali-T-Dev/Coral_Coffee/blob/main/screenshots/contact.png)  
+
+🚀 Features
+
+☕ Coffee Menu: Browse different coffee drinks and categories
+
+🍰 Desserts & Extras: Explore extra items and sweet combos
+
+📱 Fully Responsive: Optimized design for all devices
+
+🎨 Modern UI: Built with Vue 3 + TailwindCSS
+
+🔍 Interactive UX: Search, filter, and dynamic components
+
+💻 Tech Stack
+
+Framework: Vue 3
+ (Composition API)
+
+Styling: TailwindCSS
+
+Icons: Custom Vue components
+
+Build Tool: Vite
+
+🛠️ Getting Started
+Prerequisites
+
+Install Node.js
+ on your machine.
+
+Installation
+
+Clone the repository:
+
+git clone https://github.com/Ali-T-Dev/Coral_Coffee.git
+
+
+Navigate into the project:
+
+cd Coral_Coffee
+
+
+Install dependencies:
+
 npm install
-```
 
-### Compile and Hot-Reload for Development
 
-```sh
+Start the dev server:
+
 npm run dev
-```
 
-### Compile and Minify for Production
-
-```sh
+📦 Build for Production
 npm run build
-```
 
-### Lint with [ESLint](https://eslint.org/)
 
-```sh
-npm run lint
-```
+The production build will be in the dist/ folder.
+
+📄 License
+
+Distributed under the MIT License. Don’t forget to add a LICENSE file.
