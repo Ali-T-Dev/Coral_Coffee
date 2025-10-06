@@ -10,7 +10,6 @@ This project was built as a personal showcase piece to demonstrate skills in mod
   <img src="https://github.com/Ali-T-Dev/Coral_Coffee/blob/main/coral_caffee1.png?raw=true" alt="Coral Coffee UI 1" width="18%" align="top"/>
   <img src="https://github.com/Ali-T-Dev/Coral_Coffee/blob/main/coral_caffee2.png?raw=true" alt="Coral Coffee UI 2" width="18%" align="top"/>
   <img src="https://github.com/Ali-T-Dev/Coral_Coffee/blob/main/coral_caffee3.png?raw=true" alt="Coral Coffee UI 3" width="18%" align="top"/>
-  <img src="https://github.com/Ali-T-Dev/Coral_Coffee/blob/main/coral_caffee4.png?raw=true" alt="Coral Coffee UI 4" width="18%" align="top"/>
   <img src="https://github.com/Ali-T-Dev/Coral_Coffee/blob/main/coral_caffee5.png?raw=true" alt="Coral Coffee UI 5" width="18%" align="top"/>
 </p>
 
